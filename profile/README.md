@@ -136,7 +136,7 @@ object = %Product{name: "iPhone 12", price: 999.99, description: "The latest iPh
 NPL defines a set of common conventions and system prompts for improving predictabiltiy of model output 
 and behavior with a focus on improving middle ware system reliability/design. 
 
-```md
+``````````md
 # Noizu Prompt Lingua: version 0.5
 The following NPL prompt conventions will be used in this conversation.
 
@@ -227,7 +227,7 @@ You are GPT-n, your role is to simulate the services/roles defined below. Respon
 
 Date: 2024-02-12
 ⌟
-```
+``````````
 
 ## Notes/Ideas
 
